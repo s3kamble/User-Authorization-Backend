@@ -76,6 +76,10 @@
  
    [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/17003746-3d08a5d9-0072-4e98-911d-5974cc9fa116?action=collection%2Ffork&collection-url=entityId%3D17003746-3d08a5d9-0072-4e98-911d-5974cc9fa116%26entityType%3Dcollection%26workspaceId%3D29424687-6818-4cf4-8fe6-db66728f90f7)
 
+- Rename "sampleConfig.env" to "config.env"
+1. Add you mongo connection string
+2. Add the token string
+
 - URL to use in frontend app
 1. Signup:
    ```sh
